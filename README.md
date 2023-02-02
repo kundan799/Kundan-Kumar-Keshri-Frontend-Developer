@@ -26,10 +26,7 @@ Clone the Project
 ```
 https://github.com/kundan799/Kundan-Kumar-Keshri-Frontend-Developer/
 ``` 
-Go to Client directory
-```
-cd brainstorm
-```
+
 Install Dependencies
 ```
 npm install
